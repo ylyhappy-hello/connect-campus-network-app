@@ -7,13 +7,9 @@
 
 </div>
 
-<a href="https://vue-color-avatar.vercel.app">
-  <img src="./images/social-preview-1.png" alt="website-cover" />
-</a>
+## 预览
 
-## 在线预览
-
-[`https://vue-color-avatar.vercel.app`](https://vue-color-avatar.vercel.app)
+[![z0uolR.jpg](https://s1.ax1x.com/2022/12/01/z0uolR.jpg)](https://imgse.com/i/z0uolR)
 
 ## 介绍
 
