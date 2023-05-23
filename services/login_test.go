@@ -29,7 +29,8 @@ func TestFirstLogin(t *testing.T) {
 		want    string
 		wantErr bool
 	}{
-		{name: "用户殷梁禹", args: args{userId: "202114600207", password: "qwefsdd435fgsdH@H@"}, want: "ok", wantErr: false},
+		{name: "学生殷梁禹", args: args{userId: "202114600207", password: "qwefsdd435fgsdH@H@"}, want: "ok", wantErr: false},
+		{name: "老师吴明飞", args: args{userId: "wmf", password: "wmf@9522"}, want: "ok", wantErr: false},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
